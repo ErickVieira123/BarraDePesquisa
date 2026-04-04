@@ -13,7 +13,7 @@ const produtos = [
   { nome: "SSD NVMe 1TB", preco: "R$ 600", categoria: "Armazenamento" },
   { nome: "Placa de Vídeo RTX 3060", preco: "R$ 2.500", categoria: "GPU" },
   { nome: "Processador Ryzen 7", preco: "R$ 1.800", categoria: "CPU" },
-  { nome: "Memória RAM 16GB", preco: "R$ 450", categoria: "RAM" },
+  { nome: "teste", preco: "R$ 450", categoria: "RAM" },
   { nome: "SSD NVMe 1TB", preco: "R$ 600", categoria: "Armazenamento" },
 ];
 
